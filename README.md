@@ -10,4 +10,4 @@ This is a responsive and interactive quiz app built using **HTML, CSS, and JavaS
 - ✅ Instant feedback on answers
 - ✅ Score tracking and final result display
 - ✅ Dynamic question loading
-- ✅ Responsive design for desktop and mobile 
+- ✅ Responsive design for desktop and mobile
