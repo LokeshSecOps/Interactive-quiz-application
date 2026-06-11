@@ -4,7 +4,7 @@ const questions = [
     options: ["Berlin", "Madrid", "Paris", "Rome"],
     answer: "Paris"
   }, 
-  {
+  { 
     question: "Which language runs in a web browser?",
     options: ["Python", "C", "JavaScript", "Java"],
     answer: "JavaScript"
