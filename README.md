@@ -9,7 +9,7 @@ This is a responsive and interactive quiz app built using **HTML, CSS, and JavaS
 - ✅ 15 curated quiz questions
 - ✅ Instant feedback on answers
 - ✅ Score tracking and final result display
-- ✅ Dynamic question loading
+- ✅ Dynamic question loading 
 - ✅ Responsive design for desktop and mobile  
  
  
