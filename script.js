@@ -8,7 +8,7 @@ const questions = [
     question: "Which language runs in a web browser?",
     options: ["Python", "C", "JavaScript", "Java"],
     answer: "JavaScript"
-  },
+  }, 
   {
     question: "What is the largest planet in our solar system?",
     options: ["Mars", "Earth", "Saturn", "Jupiter"],
